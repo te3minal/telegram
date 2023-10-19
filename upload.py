@@ -34,7 +34,7 @@ def handle_document(update: Update, context: CallbackContext):
 # Define the main function to start the bot
 def main():
     # Replace 'YOUR_BOT_TOKEN' with your actual bot token from BotFather
-    updater = Updater(token='YOUR_BOT_TOKEN', use_context=True)
+    updater = Updater(token='6779955678:AAEq0We41p8_jylc4jYx5x6kPGQ-Acnuet0', use_context=True)
     dispatcher = updater.dispatcher
 
     # Register command and message handlers
